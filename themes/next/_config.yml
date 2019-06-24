@@ -162,10 +162,10 @@ menu:
   tags: /tags/ || tags
   archives: /archives/ || archive
   about: /about/ || user
-  welfare: /welfare/ || heartbeat
+  # welfare: /welfare/ || heartbeat
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  commonweal: /404/ || heartbeat
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -424,13 +424,14 @@ cheers: true
 # TagCloud settings for tags page.
 tagcloud:
   # If true, font size, font color and amount of tags can be customized
-  enable: false
+  enable: true
+
   # All values below are same as default, change them by yourself
   min: 12 # min font size in px
   max: 30 # max font size in px
-  start: "#ccc" # start color (hex, rgba, hsla or color keywords)
-  end: "#111" # end color (hex, rgba, hsla or color keywords)
-  amount: 200 # amount of tags, change it if you have more than 200 tags
+  start: '#ccc' # start color (hex, rgba, hsla or color keywords)
+  end: '#111' # end color (hex, rgba, hsla or color keywords)
+  amount: 200 # amount of tags, chage it if you have more than 200 tags
 
 
 # ---------------------------------------------------------------
