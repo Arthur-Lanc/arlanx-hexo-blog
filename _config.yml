@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: Hi, Arlanx
+subtitle: Pick Me Up!!!
+description: The past is a foreign country, they do things differently there.
 keywords:
-author: John Doe
+author: Arlanx
 language: zh-CN
 timezone:
 
@@ -85,3 +85,10 @@ search:
   field: post
   format: html
   limit: 10000
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false
