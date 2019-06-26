@@ -605,8 +605,8 @@ calendar:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: arlanx
   count: true
   lazyload: false
 
