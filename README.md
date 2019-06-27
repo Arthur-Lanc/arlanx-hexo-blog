@@ -1,5 +1,5 @@
 # arlanx-hexo-blog
 
-## Intro
+## Attension
 *  exec follow command first
     > npm install hexo --save
