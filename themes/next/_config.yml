@@ -218,11 +218,23 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
-links_layout: block
-#links_layout: inline
+links_title: 友情链接
+# links_layout: block
+links_layout: inline
 links:
-  #Title: http://example.com
+  diygod: https://diygod.me/
+  aofall: https://blog.aofall.com/
+  aoaoao: https://aoaoao.me/
+  qaq: https://qaq.cat/
+  cee: http://blog.cee.moe/
+  fghrsh: https://www.fghrsh.net/
+  fly3949: https://www.fly3949.com/
+  freejishu: https://www.freejishu.com/
+  jimmy66: http://jimmy66.com/
+  imjad: https://imjad.cn/
+  kn007: https://kn007.net/
+  zankyo: https://zankyo.cc/
+  lwl12: https://blog.lwl12.com/
 
 # Sidebar Avatar
 avatar:

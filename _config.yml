@@ -78,7 +78,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+- type: git
+  repo: git@github.com:Arthur-Lanc/Arthur-Lanc.github.io.git
+- type: git
+  repo: git@45.32.177.227:/home/git/blog.git
+  branch: master
 
 search:
   path: search.xml
