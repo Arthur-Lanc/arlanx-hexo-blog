@@ -1,5 +1,5 @@
 ---
-title: MySQL
+title: MySQL 锁简介
 date: 2019-06-23 15:44:35
 categories:
 - Tools

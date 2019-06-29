@@ -1,12 +1,18 @@
 // Header
 // --------------------------------------------------
-.header { background: $whitesmoke; }
+.header { 
+  background: url('../images/background.jpg'); 
+  // background-repeat: no-repeat;
+  // background-attachment: fixed;
+  // background-position: center; 
+  // background-size: cover;
+}
 .header-inner {
   clearfix();
   padding: 20px 0;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
 
   +mobile() {
     show();

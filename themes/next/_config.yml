@@ -181,8 +181,8 @@ menu_settings:
 # Schemes
 # scheme: Muse
 scheme: Mist
-#scheme: Pisces
-#scheme: Gemini
+# scheme: Pisces
+# scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -264,7 +264,7 @@ toc:
 sidebar:
   # Sidebar Position, available values: left | right (only for Pisces | Gemini).
   position: left
-  #position: right
+  # position: right
 
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
@@ -288,7 +288,7 @@ sidebar:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: true
+  sidebar: false
   # Scroll percent label in b2t button.
   scrollpercent: true
 

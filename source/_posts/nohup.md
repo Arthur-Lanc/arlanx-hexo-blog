@@ -1,5 +1,5 @@
 ---
-title: nohup
+title: nohup 用法
 date: 2019-06-23 15:44:53
 categories:
 - Tools

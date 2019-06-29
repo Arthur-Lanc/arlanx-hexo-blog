@@ -1,6 +1,6 @@
 ---
-title: tmux
-date: 2019-06-23 15:45:26
+title: tmux 常用命令
+date: 2019-06-29 15:45:26
 categories:
 - Tools
 tags:

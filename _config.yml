@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 中二病也要学Coding！！
-subtitle: Pick Me Up!!!
+title: Arlanx's Blog
+subtitle: O ever youthful, O ever powerful.
 description: The past is a foreign country, they do things differently there.
 keywords:
 author: Arlanx
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -50,8 +50,16 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 5
   order_by: -date
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+
+tag_generator:
+  per_page: 10
   
 # Category & Tag
 default_category: uncategorized

@@ -1,5 +1,5 @@
 ---
-title: supervisor
+title: supervisor 介绍
 date: 2019-06-23 15:45:44
 categories:
 - Tools
