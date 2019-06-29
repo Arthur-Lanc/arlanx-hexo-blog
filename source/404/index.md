@@ -4,3 +4,4 @@ toc: false
 comments: false
 permalink: /404
 ---
+![404 Not Found](../images/404.jpg)
