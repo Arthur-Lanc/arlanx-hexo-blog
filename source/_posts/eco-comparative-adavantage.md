@@ -1,5 +1,5 @@
 ---
-title: eco-comparative-adavantage
+title: 比较优势与绝对优势
 date: 2019-07-01 22:53:29
 categories:
 - [Economic, Comparative advantage]
