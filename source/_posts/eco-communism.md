@@ -1,18 +1,17 @@
 ---
-title: 资本主义将被共产主义取代？
+title: 马克思与共产主义
 date: 2019-07-05 22:42:49
 categories:
 - [Economic, Communism]
 tags:
 - Communism
 - Socialist
-- Marx
+- Karl Marx
 ---
 ## **_1 . Capitalism would be supplanted by communism_**
 19世纪中期，马克思完成了批判资本主义的著作，共产主义第一次有了系统的经济论证。到了20世纪，世界多达三分之一的部分都处于 **_共产主义（communist）_** 或  **_社会主义（socialist）_** 统治之下，实行 **中央集权（centralized）** 或**计划经济（planned economy）** 。
 
 <!--more-->
-
 
 [**_中央集权制度（centralization of authority）_** 是一种国家政权的制度，以国家职权统一于中央政府，削弱地方政府力量为标志的政治制度。
 **_计划经济_** 是指政府按事先制定的计划，提出国民经济和社会发展的总体目标，制定合理的政策和措施，有计划地安排重大经济活动，引导和调节经济运行方向。]
